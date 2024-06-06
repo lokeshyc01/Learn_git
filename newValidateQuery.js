@@ -1,0 +1,3 @@
+const newValidateQuery = ()=>{
+    return "newValidateQuery";
+}
