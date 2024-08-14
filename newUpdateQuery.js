@@ -1,0 +1,3 @@
+const newUpdateQuery = () =>{
+    return "newUpdateQuery";
+}
